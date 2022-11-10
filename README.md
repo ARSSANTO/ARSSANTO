@@ -33,7 +33,7 @@
 - Passionate programmer with various languages
 
 
-# :hammer_and_wrench: Languages and Tools :
+# :hammer_and_wrench: Languages & tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"  title="LUA" alt="LUA" width="40" height="40"/>&nbsp;
