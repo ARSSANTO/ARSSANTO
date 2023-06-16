@@ -20,15 +20,17 @@
 </div>
 
 <h1 align="center">
-    Hey there, I'am a 23 years old CSE engineering student, passionate to learn new stuff
+    Hey there, I am a 23-year-old CSE engineering student, passionate about learning new stuff
 </h1>
 
 
 # :man_technologist: About Me :
 
-- Doing FiveM server developments with community
+- Doing FiveM server developments with the community
 
 - Learning Web Development With PHP & Laravel
+  
+- Learning React js & nextjs
 
 - Passionate programmer with various languages
 
