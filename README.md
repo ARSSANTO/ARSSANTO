@@ -30,7 +30,7 @@
 
 - Learning Web Development With PHP & Laravel
   
-- Learning React js & nextjs
+- Learning React Js & Next Js
 
 - Passionate programmer with various languages
 
