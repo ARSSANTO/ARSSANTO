@@ -20,7 +20,7 @@
 </div>
 
 <h1 align="center">
-    Hey there, I am a 23-year-old CSE engineering student, passionate about learning new stuff
+    Hey there, I am a 24-year-old CSE engineering student, passionate about learning new stuff
 </h1>
 
 
